@@ -1,0 +1,8 @@
+#phaser-example {
+    position: relative;
+	height: 256px;
+	top: 144px;
+    image-rendering: pixelated;
+    width: 800px;
+    height: 600px;
+}

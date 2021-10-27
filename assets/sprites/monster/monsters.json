@@ -1,0 +1,4472 @@
+{
+	"textures": [
+		{
+			"image": "monsters.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1736,
+				"h": 64
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Shardsoul Slayer Sprite Sheet-32.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 0,
+						"w": 45,
+						"h": 32
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 45,
+						"h": 32
+					}
+				},
+				{
+					"filename": "Shardsoul Slayer Sprite Sheet-44.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 4,
+						"w": 33,
+						"h": 28
+					},
+					"frame": {
+						"x": 1,
+						"y": 35,
+						"w": 33,
+						"h": 28
+					}
+				},
+				{
+					"filename": "Shardsoul Slayer Sprite Sheet-31.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 0,
+						"w": 42,
+						"h": 32
+					},
+					"frame": {
+						"x": 48,
+						"y": 1,
+						"w": 42,
+						"h": 32
+					}
+				},
+				{
+					"filename": "Brain Mole Monarch Sprite Sheet-14.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 4,
+						"w": 29,
+						"h": 28
+					},
+					"frame": {
+						"x": 36,
+						"y": 35,
+						"w": 29,
+						"h": 28
+					}
+				},
+				{
+					"filename": "Brain Mole Monarch Sprite Sheet-16.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 0,
+						"w": 27,
+						"h": 28
+					},
+					"frame": {
+						"x": 67,
+						"y": 35,
+						"w": 27,
+						"h": 28
+					}
+				},
+				{
+					"filename": "Shardsoul Slayer Sprite Sheet-19.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 0,
+						"w": 39,
+						"h": 32
+					},
+					"frame": {
+						"x": 92,
+						"y": 1,
+						"w": 39,
+						"h": 32
+					}
+				},
+				{
+					"filename": "Shardsoul Slayer Sprite Sheet-20.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 0,
+						"w": 39,
+						"h": 32
+					},
+					"frame": {
+						"x": 133,
+						"y": 1,
+						"w": 39,
+						"h": 32
+					}
+				},
+				{
+					"filename": "Shardsoul Slayer Sprite Sheet-23.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 0,
+						"w": 39,
+						"h": 32
+					},
+					"frame": {
+						"x": 174,
+						"y": 1,
+						"w": 39,
+						"h": 32
+					}
+				},
+				{
+					"filename": "Shardsoul Slayer Sprite Sheet-22.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 10,
+						"y": 0,
+						"w": 38,
+						"h": 32
+					},
+					"frame": {
+						"x": 215,
+						"y": 1,
+						"w": 38,
+						"h": 32
+					}
+				},
+				{
+					"filename": "Shardsoul Slayer Sprite Sheet-21.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 10,
+						"y": 0,
+						"w": 38,
+						"h": 31
+					},
+					"frame": {
+						"x": 255,
+						"y": 1,
+						"w": 38,
+						"h": 31
+					}
+				},
+				{
+					"filename": "Shardsoul Slayer Sprite Sheet-24.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 0,
+						"w": 39,
+						"h": 29
+					},
+					"frame": {
+						"x": 255,
+						"y": 34,
+						"w": 39,
+						"h": 29
+					}
+				},
+				{
+					"filename": "Shardsoul Slayer Sprite Sheet-26.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 0,
+						"w": 39,
+						"h": 29
+					},
+					"frame": {
+						"x": 295,
+						"y": 1,
+						"w": 39,
+						"h": 29
+					}
+				},
+				{
+					"filename": "Shardsoul Slayer Sprite Sheet-43.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 1,
+						"w": 33,
+						"h": 31
+					},
+					"frame": {
+						"x": 296,
+						"y": 32,
+						"w": 33,
+						"h": 31
+					}
+				},
+				{
+					"filename": "Shardsoul Slayer Sprite Sheet-30.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 0,
+						"w": 37,
+						"h": 32
+					},
+					"frame": {
+						"x": 336,
+						"y": 1,
+						"w": 37,
+						"h": 32
+					}
+				},
+				{
+					"filename": "Shardsoul Slayer Sprite Sheet-11.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 0,
+						"w": 36,
+						"h": 32
+					},
+					"frame": {
+						"x": 375,
+						"y": 1,
+						"w": 36,
+						"h": 32
+					}
+				},
+				{
+					"filename": "Shardsoul Slayer Sprite Sheet-38.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 0,
+						"w": 36,
+						"h": 32
+					},
+					"frame": {
+						"x": 413,
+						"y": 1,
+						"w": 36,
+						"h": 32
+					}
+				},
+				{
+					"filename": "Shardsoul Slayer Sprite Sheet-39.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 0,
+						"w": 36,
+						"h": 32
+					},
+					"frame": {
+						"x": 451,
+						"y": 1,
+						"w": 36,
+						"h": 32
+					}
+				},
+				{
+					"filename": "Shardsoul Slayer Sprite Sheet-7.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 0,
+						"w": 36,
+						"h": 32
+					},
+					"frame": {
+						"x": 489,
+						"y": 1,
+						"w": 36,
+						"h": 32
+					}
+				},
+				{
+					"filename": "Shardsoul Slayer Sprite Sheet-10.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 0,
+						"w": 35,
+						"h": 32
+					},
+					"frame": {
+						"x": 527,
+						"y": 1,
+						"w": 35,
+						"h": 32
+					}
+				},
+				{
+					"filename": "Shardsoul Slayer Sprite Sheet-29.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 0,
+						"w": 35,
+						"h": 32
+					},
+					"frame": {
+						"x": 564,
+						"y": 1,
+						"w": 35,
+						"h": 32
+					}
+				},
+				{
+					"filename": "Shardsoul Slayer Sprite Sheet-37.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 0,
+						"w": 35,
+						"h": 32
+					},
+					"frame": {
+						"x": 601,
+						"y": 1,
+						"w": 35,
+						"h": 32
+					}
+				},
+				{
+					"filename": "Shardsoul Slayer Sprite Sheet-4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 0,
+						"w": 35,
+						"h": 32
+					},
+					"frame": {
+						"x": 638,
+						"y": 1,
+						"w": 35,
+						"h": 32
+					}
+				},
+				{
+					"filename": "Shardsoul Slayer Sprite Sheet-40.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 0,
+						"w": 35,
+						"h": 32
+					},
+					"frame": {
+						"x": 675,
+						"y": 1,
+						"w": 35,
+						"h": 32
+					}
+				},
+				{
+					"filename": "Shardsoul Slayer Sprite Sheet-42.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 0,
+						"w": 35,
+						"h": 32
+					},
+					"frame": {
+						"x": 712,
+						"y": 1,
+						"w": 35,
+						"h": 32
+					}
+				},
+				{
+					"filename": "Shardsoul Slayer Sprite Sheet-5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 0,
+						"w": 35,
+						"h": 32
+					},
+					"frame": {
+						"x": 749,
+						"y": 1,
+						"w": 35,
+						"h": 32
+					}
+				},
+				{
+					"filename": "Shardsoul Slayer Sprite Sheet-6.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 0,
+						"w": 35,
+						"h": 32
+					},
+					"frame": {
+						"x": 786,
+						"y": 1,
+						"w": 35,
+						"h": 32
+					}
+				},
+				{
+					"filename": "Shardsoul Slayer Sprite Sheet-8.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 0,
+						"w": 35,
+						"h": 32
+					},
+					"frame": {
+						"x": 823,
+						"y": 1,
+						"w": 35,
+						"h": 32
+					}
+				},
+				{
+					"filename": "Shardsoul Slayer Sprite Sheet-9.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 0,
+						"w": 35,
+						"h": 32
+					},
+					"frame": {
+						"x": 860,
+						"y": 1,
+						"w": 35,
+						"h": 32
+					}
+				},
+				{
+					"filename": "Shardsoul Slayer Sprite Sheet-25.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 0,
+						"w": 39,
+						"h": 26
+					},
+					"frame": {
+						"x": 96,
+						"y": 35,
+						"w": 39,
+						"h": 26
+					}
+				},
+				{
+					"filename": "Shardsoul Slayer Sprite Sheet-47.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 15,
+						"w": 48,
+						"h": 17
+					},
+					"frame": {
+						"x": 897,
+						"y": 1,
+						"w": 48,
+						"h": 17
+					}
+				},
+				{
+					"filename": "Shardsoul Slayer Sprite Sheet-45.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 7,
+						"w": 39,
+						"h": 25
+					},
+					"frame": {
+						"x": 137,
+						"y": 35,
+						"w": 39,
+						"h": 25
+					}
+				},
+				{
+					"filename": "Shardsoul Slayer Sprite Sheet-46.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 11,
+						"w": 43,
+						"h": 21
+					},
+					"frame": {
+						"x": 178,
+						"y": 35,
+						"w": 43,
+						"h": 21
+					}
+				},
+				{
+					"filename": "Twig Blight Sprite Sheet-27.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 5,
+						"w": 31,
+						"h": 27
+					},
+					"frame": {
+						"x": 331,
+						"y": 35,
+						"w": 31,
+						"h": 27
+					}
+				},
+				{
+					"filename": "Brain Mole Monarch Sprite Sheet-15.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 0,
+						"w": 29,
+						"h": 27
+					},
+					"frame": {
+						"x": 364,
+						"y": 35,
+						"w": 29,
+						"h": 27
+					}
+				},
+				{
+					"filename": "Brain Mole Monarch Sprite Sheet-1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 5,
+						"w": 26,
+						"h": 27
+					},
+					"frame": {
+						"x": 395,
+						"y": 35,
+						"w": 26,
+						"h": 27
+					}
+				},
+				{
+					"filename": "Brain Mole Monarch Sprite Sheet-13.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 5,
+						"w": 26,
+						"h": 27
+					},
+					"frame": {
+						"x": 423,
+						"y": 35,
+						"w": 26,
+						"h": 27
+					}
+				},
+				{
+					"filename": "Brain Mole Monarch Sprite Sheet-9.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 5,
+						"w": 26,
+						"h": 27
+					},
+					"frame": {
+						"x": 451,
+						"y": 35,
+						"w": 26,
+						"h": 27
+					}
+				},
+				{
+					"filename": "Brain Mole Monarch Sprite Sheet-0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 6,
+						"w": 26,
+						"h": 26
+					},
+					"frame": {
+						"x": 479,
+						"y": 35,
+						"w": 26,
+						"h": 26
+					}
+				},
+				{
+					"filename": "Brain Mole Monarch Sprite Sheet-12.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 6,
+						"w": 26,
+						"h": 26
+					},
+					"frame": {
+						"x": 507,
+						"y": 35,
+						"w": 26,
+						"h": 26
+					}
+				},
+				{
+					"filename": "Brain Mole Monarch Sprite Sheet-4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 6,
+						"w": 26,
+						"h": 26
+					},
+					"frame": {
+						"x": 535,
+						"y": 35,
+						"w": 26,
+						"h": 26
+					}
+				},
+				{
+					"filename": "Brain Mole Monarch Sprite Sheet-8.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 6,
+						"w": 26,
+						"h": 26
+					},
+					"frame": {
+						"x": 563,
+						"y": 35,
+						"w": 26,
+						"h": 26
+					}
+				},
+				{
+					"filename": "Brain Mole Monarch Sprite Sheet-10.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 5,
+						"w": 26,
+						"h": 25
+					},
+					"frame": {
+						"x": 591,
+						"y": 35,
+						"w": 26,
+						"h": 25
+					}
+				},
+				{
+					"filename": "Brain Mole Monarch Sprite Sheet-11.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 6,
+						"w": 27,
+						"h": 24
+					},
+					"frame": {
+						"x": 619,
+						"y": 35,
+						"w": 27,
+						"h": 24
+					}
+				},
+				{
+					"filename": "Brain Mole Monarch Sprite Sheet-3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 6,
+						"w": 27,
+						"h": 24
+					},
+					"frame": {
+						"x": 648,
+						"y": 35,
+						"w": 27,
+						"h": 24
+					}
+				},
+				{
+					"filename": "Brain Mole Monarch Sprite Sheet-2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 5,
+						"w": 26,
+						"h": 25
+					},
+					"frame": {
+						"x": 677,
+						"y": 35,
+						"w": 26,
+						"h": 25
+					}
+				},
+				{
+					"filename": "Brain Mole Monarch Sprite Sheet-6.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 7,
+						"w": 27,
+						"h": 23
+					},
+					"frame": {
+						"x": 705,
+						"y": 35,
+						"w": 27,
+						"h": 23
+					}
+				},
+				{
+					"filename": "Brain Mole Monarch Sprite Sheet-7.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 7,
+						"w": 27,
+						"h": 23
+					},
+					"frame": {
+						"x": 734,
+						"y": 35,
+						"w": 27,
+						"h": 23
+					}
+				},
+				{
+					"filename": "Shardsoul Slayer Sprite Sheet-33.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 0,
+						"w": 29,
+						"h": 32
+					},
+					"frame": {
+						"x": 947,
+						"y": 1,
+						"w": 29,
+						"h": 32
+					}
+				},
+				{
+					"filename": "Brain Mole Monarch Sprite Sheet-5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 0,
+						"w": 26,
+						"h": 32
+					},
+					"frame": {
+						"x": 978,
+						"y": 1,
+						"w": 26,
+						"h": 32
+					}
+				},
+				{
+					"filename": "Brain Mole Monarch Sprite Sheet-17.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 2,
+						"w": 21,
+						"h": 27
+					},
+					"frame": {
+						"x": 1006,
+						"y": 1,
+						"w": 21,
+						"h": 27
+					}
+				},
+				{
+					"filename": "Twig Blight Sprite Sheet-26.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 10,
+						"w": 25,
+						"h": 21
+					},
+					"frame": {
+						"x": 223,
+						"y": 35,
+						"w": 25,
+						"h": 21
+					}
+				},
+				{
+					"filename": "Twig Blight Sprite Sheet-15.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 8,
+						"w": 18,
+						"h": 24
+					},
+					"frame": {
+						"x": 1029,
+						"y": 1,
+						"w": 18,
+						"h": 24
+					}
+				},
+				{
+					"filename": "Intellect Devourer Sprites-23.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 23,
+						"h": 16
+					},
+					"frame": {
+						"x": 763,
+						"y": 35,
+						"w": 23,
+						"h": 16
+					}
+				},
+				{
+					"filename": "RC Car Sprite Sheet-4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 6,
+						"w": 20,
+						"h": 10
+					},
+					"frame": {
+						"x": 763,
+						"y": 53,
+						"w": 20,
+						"h": 10
+					}
+				},
+				{
+					"filename": "Intellect Devourer Sprites-24.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 23,
+						"h": 16
+					},
+					"frame": {
+						"x": 1049,
+						"y": 1,
+						"w": 23,
+						"h": 16
+					}
+				},
+				{
+					"filename": "Intellect Devourer Sprites-32.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 23,
+						"h": 16
+					},
+					"frame": {
+						"x": 788,
+						"y": 35,
+						"w": 23,
+						"h": 16
+					}
+				},
+				{
+					"filename": "RC Car Sprite Sheet-5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 6,
+						"w": 20,
+						"h": 10
+					},
+					"frame": {
+						"x": 785,
+						"y": 53,
+						"w": 20,
+						"h": 10
+					}
+				},
+				{
+					"filename": "Intellect Devourer Sprites-36.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 23,
+						"h": 16
+					},
+					"frame": {
+						"x": 1074,
+						"y": 1,
+						"w": 23,
+						"h": 16
+					}
+				},
+				{
+					"filename": "Twig Blight Sprite Sheet-16.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 17,
+						"w": 24,
+						"h": 15
+					},
+					"frame": {
+						"x": 813,
+						"y": 35,
+						"w": 24,
+						"h": 15
+					}
+				},
+				{
+					"filename": "Intellect Devourer Sprites-17.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 5,
+						"w": 24,
+						"h": 11
+					},
+					"frame": {
+						"x": 813,
+						"y": 52,
+						"w": 24,
+						"h": 11
+					}
+				},
+				{
+					"filename": "Leshy Leaf Sprite Sheet-21.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 23,
+						"h": 15
+					},
+					"frame": {
+						"x": 1099,
+						"y": 1,
+						"w": 23,
+						"h": 15
+					}
+				},
+				{
+					"filename": "Leshy Leaf Sprite Sheet-22.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 1,
+						"w": 23,
+						"h": 15
+					},
+					"frame": {
+						"x": 839,
+						"y": 35,
+						"w": 23,
+						"h": 15
+					}
+				},
+				{
+					"filename": "Intellect Devourer Sprites-7.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 0,
+						"w": 24,
+						"h": 11
+					},
+					"frame": {
+						"x": 839,
+						"y": 52,
+						"w": 24,
+						"h": 11
+					}
+				},
+				{
+					"filename": "Leshy Leaf Sprite Sheet-23.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 23,
+						"h": 15
+					},
+					"frame": {
+						"x": 864,
+						"y": 35,
+						"w": 23,
+						"h": 15
+					}
+				},
+				{
+					"filename": "RC Car Sprite Sheet-39.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 5,
+						"w": 19,
+						"h": 11
+					},
+					"frame": {
+						"x": 865,
+						"y": 52,
+						"w": 19,
+						"h": 11
+					}
+				},
+				{
+					"filename": "Intellect Devourer Sprites-1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 3,
+						"w": 23,
+						"h": 13
+					},
+					"frame": {
+						"x": 897,
+						"y": 20,
+						"w": 23,
+						"h": 13
+					}
+				},
+				{
+					"filename": "Intellect Devourer Sprites-2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 3,
+						"w": 23,
+						"h": 13
+					},
+					"frame": {
+						"x": 922,
+						"y": 20,
+						"w": 23,
+						"h": 13
+					}
+				},
+				{
+					"filename": "Intellect Devourer Sprites-19.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 0,
+						"w": 21,
+						"h": 15
+					},
+					"frame": {
+						"x": 1124,
+						"y": 1,
+						"w": 21,
+						"h": 15
+					}
+				},
+				{
+					"filename": "Intellect Devourer Sprites-25.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 1,
+						"w": 21,
+						"h": 15
+					},
+					"frame": {
+						"x": 889,
+						"y": 35,
+						"w": 21,
+						"h": 15
+					}
+				},
+				{
+					"filename": "Leshy Leaf Sprite Sheet-39.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 10,
+						"y": 5,
+						"w": 15,
+						"h": 11
+					},
+					"frame": {
+						"x": 886,
+						"y": 52,
+						"w": 15,
+						"h": 11
+					}
+				},
+				{
+					"filename": "Intellect Devourer Sprites-27.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 3,
+						"w": 23,
+						"h": 13
+					},
+					"frame": {
+						"x": 1147,
+						"y": 1,
+						"w": 23,
+						"h": 13
+					}
+				},
+				{
+					"filename": "Intellect Devourer Sprites-28.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 3,
+						"w": 23,
+						"h": 13
+					},
+					"frame": {
+						"x": 912,
+						"y": 35,
+						"w": 23,
+						"h": 13
+					}
+				},
+				{
+					"filename": "Intellect Devourer Sprites-20.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 3,
+						"w": 21,
+						"h": 13
+					},
+					"frame": {
+						"x": 912,
+						"y": 50,
+						"w": 21,
+						"h": 13
+					}
+				},
+				{
+					"filename": "Intellect Devourer Sprites-16.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 4,
+						"w": 23,
+						"h": 12
+					},
+					"frame": {
+						"x": 1172,
+						"y": 1,
+						"w": 23,
+						"h": 12
+					}
+				},
+				{
+					"filename": "Intellect Devourer Sprites-0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 2,
+						"w": 21,
+						"h": 14
+					},
+					"frame": {
+						"x": 937,
+						"y": 35,
+						"w": 21,
+						"h": 14
+					}
+				},
+				{
+					"filename": "Intellect Devourer Sprites-33.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 4,
+						"w": 21,
+						"h": 12
+					},
+					"frame": {
+						"x": 935,
+						"y": 51,
+						"w": 21,
+						"h": 12
+					}
+				},
+				{
+					"filename": "Intellect Devourer Sprites-15.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 2,
+						"w": 21,
+						"h": 14
+					},
+					"frame": {
+						"x": 960,
+						"y": 35,
+						"w": 21,
+						"h": 14
+					}
+				},
+				{
+					"filename": "RC Car Sprite Sheet-10.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 4,
+						"w": 18,
+						"h": 12
+					},
+					"frame": {
+						"x": 958,
+						"y": 51,
+						"w": 18,
+						"h": 12
+					}
+				},
+				{
+					"filename": "Intellect Devourer Sprites-22.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 2,
+						"w": 21,
+						"h": 14
+					},
+					"frame": {
+						"x": 983,
+						"y": 35,
+						"w": 21,
+						"h": 14
+					}
+				},
+				{
+					"filename": "Jellyfish Sprite Sheet-20.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 10,
+						"w": 15,
+						"h": 12
+					},
+					"frame": {
+						"x": 978,
+						"y": 51,
+						"w": 15,
+						"h": 12
+					}
+				},
+				{
+					"filename": "Twig Blight Sprite Sheet-17.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 16,
+						"w": 21,
+						"h": 16
+					},
+					"frame": {
+						"x": 1006,
+						"y": 30,
+						"w": 21,
+						"h": 16
+					}
+				},
+				{
+					"filename": "Intellect Devourer Sprites-6.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 21,
+						"h": 15
+					},
+					"frame": {
+						"x": 1006,
+						"y": 48,
+						"w": 21,
+						"h": 15
+					}
+				},
+				{
+					"filename": "Twig Blight Sprite Sheet-14.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 14,
+						"w": 18,
+						"h": 18
+					},
+					"frame": {
+						"x": 1029,
+						"y": 27,
+						"w": 18,
+						"h": 18
+					}
+				},
+				{
+					"filename": "RC Car Sprite Sheet-35.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 0,
+						"w": 20,
+						"h": 16
+					},
+					"frame": {
+						"x": 1029,
+						"y": 47,
+						"w": 20,
+						"h": 16
+					}
+				},
+				{
+					"filename": "Intellect Devourer Sprites-8.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 21,
+						"h": 15
+					},
+					"frame": {
+						"x": 1049,
+						"y": 19,
+						"w": 21,
+						"h": 15
+					}
+				},
+				{
+					"filename": "RC Car Sprite Sheet-31.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 1,
+						"w": 21,
+						"h": 15
+					},
+					"frame": {
+						"x": 1072,
+						"y": 19,
+						"w": 21,
+						"h": 15
+					}
+				},
+				{
+					"filename": "Intellect Devourer Sprites-37.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 7,
+						"w": 23,
+						"h": 9
+					},
+					"frame": {
+						"x": 1049,
+						"y": 36,
+						"w": 23,
+						"h": 9
+					}
+				},
+				{
+					"filename": "Intellect Devourer Sprites-18.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 0,
+						"w": 19,
+						"h": 16
+					},
+					"frame": {
+						"x": 1051,
+						"y": 47,
+						"w": 19,
+						"h": 16
+					}
+				},
+				{
+					"filename": "RC Car Sprite Sheet-30.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 0,
+						"w": 19,
+						"h": 16
+					},
+					"frame": {
+						"x": 1072,
+						"y": 47,
+						"w": 19,
+						"h": 16
+					}
+				},
+				{
+					"filename": "Leshy Leaf Sprite Sheet-40.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 7,
+						"w": 20,
+						"h": 9
+					},
+					"frame": {
+						"x": 1074,
+						"y": 36,
+						"w": 20,
+						"h": 9
+					}
+				},
+				{
+					"filename": "RC Car Sprite Sheet-17.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 0,
+						"w": 18,
+						"h": 16
+					},
+					"frame": {
+						"x": 1093,
+						"y": 47,
+						"w": 18,
+						"h": 16
+					}
+				},
+				{
+					"filename": "Intellect Devourer Sprites-26.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 2,
+						"w": 21,
+						"h": 14
+					},
+					"frame": {
+						"x": 1197,
+						"y": 1,
+						"w": 21,
+						"h": 14
+					}
+				},
+				{
+					"filename": "Intellect Devourer Sprites-29.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 2,
+						"w": 21,
+						"h": 14
+					},
+					"frame": {
+						"x": 1220,
+						"y": 1,
+						"w": 21,
+						"h": 14
+					}
+				},
+				{
+					"filename": "Intellect Devourer Sprites-3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 2,
+						"w": 21,
+						"h": 14
+					},
+					"frame": {
+						"x": 1243,
+						"y": 1,
+						"w": 21,
+						"h": 14
+					}
+				},
+				{
+					"filename": "Intellect Devourer Sprites-30.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 2,
+						"w": 21,
+						"h": 14
+					},
+					"frame": {
+						"x": 1266,
+						"y": 1,
+						"w": 21,
+						"h": 14
+					}
+				},
+				{
+					"filename": "Intellect Devourer Sprites-31.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 2,
+						"w": 21,
+						"h": 14
+					},
+					"frame": {
+						"x": 1289,
+						"y": 1,
+						"w": 21,
+						"h": 14
+					}
+				},
+				{
+					"filename": "Intellect Devourer Sprites-34.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 2,
+						"w": 21,
+						"h": 14
+					},
+					"frame": {
+						"x": 1312,
+						"y": 1,
+						"w": 21,
+						"h": 14
+					}
+				},
+				{
+					"filename": "Intellect Devourer Sprites-35.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 2,
+						"w": 21,
+						"h": 14
+					},
+					"frame": {
+						"x": 1335,
+						"y": 1,
+						"w": 21,
+						"h": 14
+					}
+				},
+				{
+					"filename": "Intellect Devourer Sprites-5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 2,
+						"w": 21,
+						"h": 14
+					},
+					"frame": {
+						"x": 1358,
+						"y": 1,
+						"w": 21,
+						"h": 14
+					}
+				},
+				{
+					"filename": "Jellyfish Sprite Sheet-19.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 8,
+						"w": 20,
+						"h": 15
+					},
+					"frame": {
+						"x": 1381,
+						"y": 1,
+						"w": 20,
+						"h": 15
+					}
+				},
+				{
+					"filename": "Jellyfish Sprite Sheet-18.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 7,
+						"w": 19,
+						"h": 17
+					},
+					"frame": {
+						"x": 1403,
+						"y": 1,
+						"w": 19,
+						"h": 17
+					}
+				},
+				{
+					"filename": "Twig Blight Sprite Sheet-6.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 12,
+						"w": 19,
+						"h": 17
+					},
+					"frame": {
+						"x": 1424,
+						"y": 1,
+						"w": 19,
+						"h": 17
+					}
+				},
+				{
+					"filename": "Twig Blight Sprite Sheet-19.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 15,
+						"w": 18,
+						"h": 17
+					},
+					"frame": {
+						"x": 1445,
+						"y": 1,
+						"w": 18,
+						"h": 17
+					}
+				},
+				{
+					"filename": "Twig Blight Sprite Sheet-21.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 15,
+						"w": 18,
+						"h": 17
+					},
+					"frame": {
+						"x": 1465,
+						"y": 1,
+						"w": 18,
+						"h": 17
+					}
+				},
+				{
+					"filename": "Twig Blight Sprite Sheet-5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 13,
+						"w": 18,
+						"h": 18
+					},
+					"frame": {
+						"x": 1485,
+						"y": 1,
+						"w": 18,
+						"h": 18
+					}
+				},
+				{
+					"filename": "Twig Blight Sprite Sheet-7.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 13,
+						"w": 18,
+						"h": 18
+					},
+					"frame": {
+						"x": 1505,
+						"y": 1,
+						"w": 18,
+						"h": 18
+					}
+				},
+				{
+					"filename": "Leshy Leaf Sprite Sheet-27.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 1,
+						"w": 19,
+						"h": 15
+					},
+					"frame": {
+						"x": 1525,
+						"y": 1,
+						"w": 19,
+						"h": 15
+					}
+				},
+				{
+					"filename": "Leshy Leaf Sprite Sheet-28.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 1,
+						"w": 19,
+						"h": 15
+					},
+					"frame": {
+						"x": 1546,
+						"y": 1,
+						"w": 19,
+						"h": 15
+					}
+				},
+				{
+					"filename": "RC Car Sprite Sheet-37.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 1,
+						"w": 19,
+						"h": 15
+					},
+					"frame": {
+						"x": 1567,
+						"y": 1,
+						"w": 19,
+						"h": 15
+					}
+				},
+				{
+					"filename": "RC Car Sprite Sheet-18.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 1,
+						"w": 18,
+						"h": 15
+					},
+					"frame": {
+						"x": 1588,
+						"y": 1,
+						"w": 18,
+						"h": 15
+					}
+				},
+				{
+					"filename": "RC Car Sprite Sheet-20.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 1,
+						"w": 18,
+						"h": 15
+					},
+					"frame": {
+						"x": 1608,
+						"y": 1,
+						"w": 18,
+						"h": 15
+					}
+				},
+				{
+					"filename": "RC Car Sprite Sheet-21.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 0,
+						"w": 18,
+						"h": 16
+					},
+					"frame": {
+						"x": 1628,
+						"y": 1,
+						"w": 18,
+						"h": 16
+					}
+				},
+				{
+					"filename": "RC Car Sprite Sheet-28.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 0,
+						"w": 18,
+						"h": 16
+					},
+					"frame": {
+						"x": 1648,
+						"y": 1,
+						"w": 18,
+						"h": 16
+					}
+				},
+				{
+					"filename": "RC Car Sprite Sheet-29.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 0,
+						"w": 18,
+						"h": 16
+					},
+					"frame": {
+						"x": 1668,
+						"y": 1,
+						"w": 18,
+						"h": 16
+					}
+				},
+				{
+					"filename": "Twig Blight Sprite Sheet-0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 16,
+						"w": 18,
+						"h": 16
+					},
+					"frame": {
+						"x": 1688,
+						"y": 1,
+						"w": 18,
+						"h": 16
+					}
+				},
+				{
+					"filename": "Twig Blight Sprite Sheet-12.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 16,
+						"w": 18,
+						"h": 16
+					},
+					"frame": {
+						"x": 1708,
+						"y": 1,
+						"w": 18,
+						"h": 16
+					}
+				},
+				{
+					"filename": "Jellyfish Sprite Sheet-22.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 25,
+						"w": 24,
+						"h": 7
+					},
+					"frame": {
+						"x": 1525,
+						"y": 18,
+						"w": 24,
+						"h": 7
+					}
+				},
+				{
+					"filename": "Jellyfish Sprite Sheet-23.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 25,
+						"w": 24,
+						"h": 7
+					},
+					"frame": {
+						"x": 1551,
+						"y": 18,
+						"w": 24,
+						"h": 7
+					}
+				},
+				{
+					"filename": "Jellyfish Sprite Sheet-24.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 25,
+						"w": 24,
+						"h": 7
+					},
+					"frame": {
+						"x": 1577,
+						"y": 18,
+						"w": 24,
+						"h": 7
+					}
+				},
+				{
+					"filename": "Intellect Devourer Sprites-9.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 3,
+						"w": 19,
+						"h": 13
+					},
+					"frame": {
+						"x": 1603,
+						"y": 18,
+						"w": 19,
+						"h": 13
+					}
+				},
+				{
+					"filename": "RC Car Sprite Sheet-34.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 2,
+						"w": 19,
+						"h": 14
+					},
+					"frame": {
+						"x": 1624,
+						"y": 19,
+						"w": 19,
+						"h": 14
+					}
+				},
+				{
+					"filename": "RC Car Sprite Sheet-32.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 1,
+						"w": 18,
+						"h": 15
+					},
+					"frame": {
+						"x": 1645,
+						"y": 19,
+						"w": 18,
+						"h": 15
+					}
+				},
+				{
+					"filename": "Twig Blight Sprite Sheet-1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 17,
+						"w": 18,
+						"h": 15
+					},
+					"frame": {
+						"x": 1665,
+						"y": 19,
+						"w": 18,
+						"h": 15
+					}
+				},
+				{
+					"filename": "Twig Blight Sprite Sheet-18.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 16,
+						"w": 18,
+						"h": 16
+					},
+					"frame": {
+						"x": 1685,
+						"y": 19,
+						"w": 18,
+						"h": 16
+					}
+				},
+				{
+					"filename": "Twig Blight Sprite Sheet-23.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 16,
+						"w": 18,
+						"h": 16
+					},
+					"frame": {
+						"x": 1705,
+						"y": 19,
+						"w": 18,
+						"h": 16
+					}
+				},
+				{
+					"filename": "Brain Mole Monarch Sprite Sheet-18.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 14,
+						"w": 10,
+						"h": 12
+					},
+					"frame": {
+						"x": 1725,
+						"y": 19,
+						"w": 10,
+						"h": 12
+					}
+				},
+				{
+					"filename": "RC Car Sprite Sheet-0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 7,
+						"w": 18,
+						"h": 9
+					},
+					"frame": {
+						"x": 1096,
+						"y": 36,
+						"w": 18,
+						"h": 9
+					}
+				},
+				{
+					"filename": "Twig Blight Sprite Sheet-2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 17,
+						"w": 18,
+						"h": 15
+					},
+					"frame": {
+						"x": 1095,
+						"y": 19,
+						"w": 18,
+						"h": 15
+					}
+				},
+				{
+					"filename": "Twig Blight Sprite Sheet-24.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 16,
+						"w": 18,
+						"h": 16
+					},
+					"frame": {
+						"x": 1113,
+						"y": 47,
+						"w": 18,
+						"h": 16
+					}
+				},
+				{
+					"filename": "Twig Blight Sprite Sheet-3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 16,
+						"w": 18,
+						"h": 16
+					},
+					"frame": {
+						"x": 1115,
+						"y": 18,
+						"w": 18,
+						"h": 16
+					}
+				},
+				{
+					"filename": "RC Car Sprite Sheet-13.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 7,
+						"w": 18,
+						"h": 9
+					},
+					"frame": {
+						"x": 1116,
+						"y": 36,
+						"w": 18,
+						"h": 9
+					}
+				},
+				{
+					"filename": "Twig Blight Sprite Sheet-4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 16,
+						"w": 18,
+						"h": 16
+					},
+					"frame": {
+						"x": 1133,
+						"y": 47,
+						"w": 18,
+						"h": 16
+					}
+				},
+				{
+					"filename": "Jellyfish Sprite Sheet-16.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 10,
+						"w": 11,
+						"h": 16
+					},
+					"frame": {
+						"x": 1135,
+						"y": 18,
+						"w": 11,
+						"h": 16
+					}
+				},
+				{
+					"filename": "RC Car Sprite Sheet-25.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 7,
+						"w": 18,
+						"h": 9
+					},
+					"frame": {
+						"x": 1136,
+						"y": 36,
+						"w": 18,
+						"h": 9
+					}
+				},
+				{
+					"filename": "Jellyfish Sprite Sheet-7.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 10,
+						"y": 9,
+						"w": 13,
+						"h": 18
+					},
+					"frame": {
+						"x": 1148,
+						"y": 16,
+						"w": 13,
+						"h": 18
+					}
+				},
+				{
+					"filename": "Twig Blight Sprite Sheet-11.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 13,
+						"w": 13,
+						"h": 16
+					},
+					"frame": {
+						"x": 1153,
+						"y": 47,
+						"w": 13,
+						"h": 16
+					}
+				},
+				{
+					"filename": "RC Car Sprite Sheet-33.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 7,
+						"w": 18,
+						"h": 9
+					},
+					"frame": {
+						"x": 1156,
+						"y": 36,
+						"w": 18,
+						"h": 9
+					}
+				},
+				{
+					"filename": "Jellyfish Sprite Sheet-12.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 9,
+						"w": 11,
+						"h": 18
+					},
+					"frame": {
+						"x": 1163,
+						"y": 16,
+						"w": 11,
+						"h": 18
+					}
+				},
+				{
+					"filename": "Twig Blight Sprite Sheet-9.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 13,
+						"w": 13,
+						"h": 16
+					},
+					"frame": {
+						"x": 1168,
+						"y": 47,
+						"w": 13,
+						"h": 16
+					}
+				},
+				{
+					"filename": "RC Car Sprite Sheet-40.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 3,
+						"w": 19,
+						"h": 13
+					},
+					"frame": {
+						"x": 1176,
+						"y": 15,
+						"w": 19,
+						"h": 13
+					}
+				},
+				{
+					"filename": "Twig Blight Sprite Sheet-20.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 14,
+						"w": 18,
+						"h": 15
+					},
+					"frame": {
+						"x": 1176,
+						"y": 30,
+						"w": 18,
+						"h": 15
+					}
+				},
+				{
+					"filename": "RC Car Sprite Sheet-16.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 3,
+						"w": 18,
+						"h": 13
+					},
+					"frame": {
+						"x": 1197,
+						"y": 17,
+						"w": 18,
+						"h": 13
+					}
+				},
+				{
+					"filename": "RC Car Sprite Sheet-22.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 3,
+						"w": 18,
+						"h": 13
+					},
+					"frame": {
+						"x": 1217,
+						"y": 17,
+						"w": 18,
+						"h": 13
+					}
+				},
+				{
+					"filename": "Twig Blight Sprite Sheet-22.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 17,
+						"w": 18,
+						"h": 15
+					},
+					"frame": {
+						"x": 1237,
+						"y": 17,
+						"w": 18,
+						"h": 15
+					}
+				},
+				{
+					"filename": "Twig Blight Sprite Sheet-25.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 16,
+						"w": 18,
+						"h": 15
+					},
+					"frame": {
+						"x": 1257,
+						"y": 17,
+						"w": 18,
+						"h": 15
+					}
+				},
+				{
+					"filename": "Twig Blight Sprite Sheet-8.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 17,
+						"w": 18,
+						"h": 15
+					},
+					"frame": {
+						"x": 1277,
+						"y": 17,
+						"w": 18,
+						"h": 15
+					}
+				},
+				{
+					"filename": "Leshy Leaf Sprite Sheet-19.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 17,
+						"h": 15
+					},
+					"frame": {
+						"x": 1297,
+						"y": 17,
+						"w": 17,
+						"h": 15
+					}
+				},
+				{
+					"filename": "Leshy Leaf Sprite Sheet-20.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 1,
+						"w": 17,
+						"h": 15
+					},
+					"frame": {
+						"x": 1316,
+						"y": 17,
+						"w": 17,
+						"h": 15
+					}
+				},
+				{
+					"filename": "Leshy Leaf Sprite Sheet-24.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 17,
+						"h": 15
+					},
+					"frame": {
+						"x": 1335,
+						"y": 17,
+						"w": 17,
+						"h": 15
+					}
+				},
+				{
+					"filename": "Twig Blight Sprite Sheet-13.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 15,
+						"w": 17,
+						"h": 17
+					},
+					"frame": {
+						"x": 1354,
+						"y": 17,
+						"w": 17,
+						"h": 17
+					}
+				},
+				{
+					"filename": "Leshy Leaf Sprite Sheet-0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 16,
+						"h": 15
+					},
+					"frame": {
+						"x": 1196,
+						"y": 32,
+						"w": 16,
+						"h": 15
+					}
+				},
+				{
+					"filename": "Leshy Leaf Sprite Sheet-12.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 16,
+						"h": 14
+					},
+					"frame": {
+						"x": 1183,
+						"y": 49,
+						"w": 16,
+						"h": 14
+					}
+				},
+				{
+					"filename": "Leshy Leaf Sprite Sheet-14.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 2,
+						"w": 16,
+						"h": 14
+					},
+					"frame": {
+						"x": 1201,
+						"y": 49,
+						"w": 16,
+						"h": 14
+					}
+				},
+				{
+					"filename": "Leshy Leaf Sprite Sheet-1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 16,
+						"h": 15
+					},
+					"frame": {
+						"x": 1214,
+						"y": 32,
+						"w": 16,
+						"h": 15
+					}
+				},
+				{
+					"filename": "Leshy Leaf Sprite Sheet-30.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 10,
+						"y": 2,
+						"w": 16,
+						"h": 14
+					},
+					"frame": {
+						"x": 1219,
+						"y": 49,
+						"w": 16,
+						"h": 14
+					}
+				},
+				{
+					"filename": "Leshy Leaf Sprite Sheet-34.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 3,
+						"w": 16,
+						"h": 13
+					},
+					"frame": {
+						"x": 1232,
+						"y": 34,
+						"w": 16,
+						"h": 13
+					}
+				},
+				{
+					"filename": "Leshy Leaf Sprite Sheet-33.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 2,
+						"w": 16,
+						"h": 14
+					},
+					"frame": {
+						"x": 1237,
+						"y": 49,
+						"w": 16,
+						"h": 14
+					}
+				},
+				{
+					"filename": "Leshy Leaf Sprite Sheet-38.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 3,
+						"w": 16,
+						"h": 13
+					},
+					"frame": {
+						"x": 1250,
+						"y": 34,
+						"w": 16,
+						"h": 13
+					}
+				},
+				{
+					"filename": "Leshy Leaf Sprite Sheet-35.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 2,
+						"w": 16,
+						"h": 14
+					},
+					"frame": {
+						"x": 1255,
+						"y": 49,
+						"w": 16,
+						"h": 14
+					}
+				},
+				{
+					"filename": "RC Car Sprite Sheet-3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 6,
+						"w": 19,
+						"h": 10
+					},
+					"frame": {
+						"x": 1268,
+						"y": 34,
+						"w": 19,
+						"h": 10
+					}
+				},
+				{
+					"filename": "Jellyfish Sprite Sheet-17.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 8,
+						"w": 15,
+						"h": 17
+					},
+					"frame": {
+						"x": 1273,
+						"y": 46,
+						"w": 15,
+						"h": 17
+					}
+				},
+				{
+					"filename": "RC Car Sprite Sheet-2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 6,
+						"w": 18,
+						"h": 10
+					},
+					"frame": {
+						"x": 1289,
+						"y": 34,
+						"w": 18,
+						"h": 10
+					}
+				},
+				{
+					"filename": "Jellyfish Sprite Sheet-8.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 10,
+						"y": 10,
+						"w": 13,
+						"h": 17
+					},
+					"frame": {
+						"x": 1290,
+						"y": 46,
+						"w": 13,
+						"h": 17
+					}
+				},
+				{
+					"filename": "Jellyfish Sprite Sheet-0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 10,
+						"w": 11,
+						"h": 17
+					},
+					"frame": {
+						"x": 1305,
+						"y": 46,
+						"w": 11,
+						"h": 17
+					}
+				},
+				{
+					"filename": "RC Car Sprite Sheet-6.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 6,
+						"w": 18,
+						"h": 10
+					},
+					"frame": {
+						"x": 1309,
+						"y": 34,
+						"w": 18,
+						"h": 10
+					}
+				},
+				{
+					"filename": "Jellyfish Sprite Sheet-1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 10,
+						"w": 11,
+						"h": 17
+					},
+					"frame": {
+						"x": 1318,
+						"y": 46,
+						"w": 11,
+						"h": 17
+					}
+				},
+				{
+					"filename": "RC Car Sprite Sheet-8.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 5,
+						"w": 18,
+						"h": 10
+					},
+					"frame": {
+						"x": 1329,
+						"y": 34,
+						"w": 18,
+						"h": 10
+					}
+				},
+				{
+					"filename": "Jellyfish Sprite Sheet-10.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 10,
+						"w": 11,
+						"h": 17
+					},
+					"frame": {
+						"x": 1331,
+						"y": 46,
+						"w": 11,
+						"h": 17
+					}
+				},
+				{
+					"filename": "Jellyfish Sprite Sheet-11.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 10,
+						"w": 11,
+						"h": 17
+					},
+					"frame": {
+						"x": 1344,
+						"y": 46,
+						"w": 11,
+						"h": 17
+					}
+				},
+				{
+					"filename": "RC Car Sprite Sheet-36.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 8,
+						"w": 19,
+						"h": 8
+					},
+					"frame": {
+						"x": 1349,
+						"y": 36,
+						"w": 19,
+						"h": 8
+					}
+				},
+				{
+					"filename": "Jellyfish Sprite Sheet-13.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 10,
+						"w": 11,
+						"h": 17
+					},
+					"frame": {
+						"x": 1357,
+						"y": 46,
+						"w": 11,
+						"h": 17
+					}
+				},
+				{
+					"filename": "Leshy Leaf Sprite Sheet-10.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 16,
+						"h": 15
+					},
+					"frame": {
+						"x": 1373,
+						"y": 18,
+						"w": 16,
+						"h": 15
+					}
+				},
+				{
+					"filename": "Jellyfish Sprite Sheet-3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 10,
+						"w": 11,
+						"h": 18
+					},
+					"frame": {
+						"x": 1370,
+						"y": 36,
+						"w": 11,
+						"h": 18
+					}
+				},
+				{
+					"filename": "RC Car Sprite Sheet-15.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 9,
+						"w": 19,
+						"h": 7
+					},
+					"frame": {
+						"x": 1370,
+						"y": 56,
+						"w": 19,
+						"h": 7
+					}
+				},
+				{
+					"filename": "Jellyfish Sprite Sheet-14.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 10,
+						"w": 11,
+						"h": 17
+					},
+					"frame": {
+						"x": 1383,
+						"y": 37,
+						"w": 11,
+						"h": 17
+					}
+				},
+				{
+					"filename": "RC Car Sprite Sheet-23.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 9,
+						"w": 19,
+						"h": 7
+					},
+					"frame": {
+						"x": 1391,
+						"y": 56,
+						"w": 19,
+						"h": 7
+					}
+				},
+				{
+					"filename": "Jellyfish Sprite Sheet-15.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 10,
+						"w": 11,
+						"h": 17
+					},
+					"frame": {
+						"x": 1396,
+						"y": 37,
+						"w": 11,
+						"h": 17
+					}
+				},
+				{
+					"filename": "Leshy Leaf Sprite Sheet-11.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 16,
+						"h": 15
+					},
+					"frame": {
+						"x": 1391,
+						"y": 20,
+						"w": 16,
+						"h": 15
+					}
+				},
+				{
+					"filename": "Leshy Leaf Sprite Sheet-13.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 16,
+						"h": 15
+					},
+					"frame": {
+						"x": 1409,
+						"y": 20,
+						"w": 16,
+						"h": 15
+					}
+				},
+				{
+					"filename": "Jellyfish Sprite Sheet-2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 11,
+						"w": 11,
+						"h": 17
+					},
+					"frame": {
+						"x": 1409,
+						"y": 37,
+						"w": 11,
+						"h": 17
+					}
+				},
+				{
+					"filename": "Leshy Leaf Sprite Sheet-18.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 16,
+						"h": 15
+					},
+					"frame": {
+						"x": 1427,
+						"y": 20,
+						"w": 16,
+						"h": 15
+					}
+				},
+				{
+					"filename": "Leshy Leaf Sprite Sheet-2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 16,
+						"h": 15
+					},
+					"frame": {
+						"x": 1422,
+						"y": 37,
+						"w": 16,
+						"h": 15
+					}
+				},
+				{
+					"filename": "RC Car Sprite Sheet-38.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 7,
+						"w": 19,
+						"h": 9
+					},
+					"frame": {
+						"x": 1422,
+						"y": 54,
+						"w": 19,
+						"h": 9
+					}
+				},
+				{
+					"filename": "Leshy Leaf Sprite Sheet-25.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 16,
+						"h": 15
+					},
+					"frame": {
+						"x": 1445,
+						"y": 20,
+						"w": 16,
+						"h": 15
+					}
+				},
+				{
+					"filename": "Leshy Leaf Sprite Sheet-26.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 16,
+						"h": 15
+					},
+					"frame": {
+						"x": 1440,
+						"y": 37,
+						"w": 16,
+						"h": 15
+					}
+				},
+				{
+					"filename": "Leshy Leaf Sprite Sheet-3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 16,
+						"h": 15
+					},
+					"frame": {
+						"x": 1463,
+						"y": 20,
+						"w": 16,
+						"h": 15
+					}
+				},
+				{
+					"filename": "Leshy Leaf Sprite Sheet-32.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 16,
+						"h": 15
+					},
+					"frame": {
+						"x": 1458,
+						"y": 37,
+						"w": 16,
+						"h": 15
+					}
+				},
+				{
+					"filename": "Leshy Leaf Sprite Sheet-36.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 16,
+						"h": 15
+					},
+					"frame": {
+						"x": 1481,
+						"y": 21,
+						"w": 16,
+						"h": 15
+					}
+				},
+				{
+					"filename": "Leshy Leaf Sprite Sheet-4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 16,
+						"h": 15
+					},
+					"frame": {
+						"x": 1499,
+						"y": 21,
+						"w": 16,
+						"h": 15
+					}
+				},
+				{
+					"filename": "RC Car Sprite Sheet-1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 8,
+						"w": 18,
+						"h": 8
+					},
+					"frame": {
+						"x": 1443,
+						"y": 54,
+						"w": 18,
+						"h": 8
+					}
+				},
+				{
+					"filename": "Leshy Leaf Sprite Sheet-37.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 2,
+						"w": 16,
+						"h": 14
+					},
+					"frame": {
+						"x": 1476,
+						"y": 38,
+						"w": 16,
+						"h": 14
+					}
+				},
+				{
+					"filename": "Leshy Leaf Sprite Sheet-5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 16,
+						"h": 15
+					},
+					"frame": {
+						"x": 1494,
+						"y": 38,
+						"w": 16,
+						"h": 15
+					}
+				},
+				{
+					"filename": "RC Car Sprite Sheet-11.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 8,
+						"w": 18,
+						"h": 8
+					},
+					"frame": {
+						"x": 1463,
+						"y": 54,
+						"w": 18,
+						"h": 8
+					}
+				},
+				{
+					"filename": "RC Car Sprite Sheet-14.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 8,
+						"w": 18,
+						"h": 8
+					},
+					"frame": {
+						"x": 1483,
+						"y": 55,
+						"w": 18,
+						"h": 8
+					}
+				},
+				{
+					"filename": "RC Car Sprite Sheet-24.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 8,
+						"w": 18,
+						"h": 8
+					},
+					"frame": {
+						"x": 1503,
+						"y": 55,
+						"w": 18,
+						"h": 8
+					}
+				},
+				{
+					"filename": "Intellect Devourer Sprites-10.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 0,
+						"w": 15,
+						"h": 15
+					},
+					"frame": {
+						"x": 1512,
+						"y": 38,
+						"w": 15,
+						"h": 15
+					}
+				},
+				{
+					"filename": "RC Car Sprite Sheet-7.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 8,
+						"w": 18,
+						"h": 8
+					},
+					"frame": {
+						"x": 1523,
+						"y": 55,
+						"w": 18,
+						"h": 8
+					}
+				},
+				{
+					"filename": "Jellyfish Sprite Sheet-4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 10,
+						"w": 11,
+						"h": 17
+					},
+					"frame": {
+						"x": 1529,
+						"y": 36,
+						"w": 11,
+						"h": 17
+					}
+				},
+				{
+					"filename": "Leshy Leaf Sprite Sheet-6.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 16,
+						"h": 15
+					},
+					"frame": {
+						"x": 1542,
+						"y": 27,
+						"w": 16,
+						"h": 15
+					}
+				},
+				{
+					"filename": "Leshy Leaf Sprite Sheet-7.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 16,
+						"h": 15
+					},
+					"frame": {
+						"x": 1560,
+						"y": 27,
+						"w": 16,
+						"h": 15
+					}
+				},
+				{
+					"filename": "Intellect Devourer Sprites-12.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 0,
+						"w": 15,
+						"h": 15
+					},
+					"frame": {
+						"x": 1578,
+						"y": 27,
+						"w": 15,
+						"h": 15
+					}
+				},
+				{
+					"filename": "Leshy Leaf Sprite Sheet-15.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 15,
+						"h": 15
+					},
+					"frame": {
+						"x": 1543,
+						"y": 44,
+						"w": 15,
+						"h": 15
+					}
+				},
+				{
+					"filename": "Leshy Leaf Sprite Sheet-17.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 15,
+						"h": 15
+					},
+					"frame": {
+						"x": 1560,
+						"y": 44,
+						"w": 15,
+						"h": 15
+					}
+				},
+				{
+					"filename": "Leshy Leaf Sprite Sheet-29.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 10,
+						"y": 1,
+						"w": 15,
+						"h": 15
+					},
+					"frame": {
+						"x": 1577,
+						"y": 44,
+						"w": 15,
+						"h": 15
+					}
+				},
+				{
+					"filename": "RC Car Sprite Sheet-9.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 3,
+						"w": 18,
+						"h": 10
+					},
+					"frame": {
+						"x": 1595,
+						"y": 33,
+						"w": 18,
+						"h": 10
+					}
+				},
+				{
+					"filename": "Intellect Devourer Sprites-11.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 0,
+						"w": 15,
+						"h": 14
+					},
+					"frame": {
+						"x": 1594,
+						"y": 45,
+						"w": 15,
+						"h": 14
+					}
+				},
+				{
+					"filename": "Jellyfish Sprite Sheet-5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 10,
+						"w": 12,
+						"h": 14
+					},
+					"frame": {
+						"x": 1611,
+						"y": 45,
+						"w": 12,
+						"h": 14
+					}
+				},
+				{
+					"filename": "Leshy Leaf Sprite Sheet-31.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 10,
+						"y": 1,
+						"w": 15,
+						"h": 15
+					},
+					"frame": {
+						"x": 1625,
+						"y": 35,
+						"w": 15,
+						"h": 15
+					}
+				},
+				{
+					"filename": "Leshy Leaf Sprite Sheet-16.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 14,
+						"h": 14
+					},
+					"frame": {
+						"x": 1642,
+						"y": 36,
+						"w": 14,
+						"h": 14
+					}
+				},
+				{
+					"filename": "Twig Blight Sprite Sheet-10.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 12,
+						"w": 13,
+						"h": 15
+					},
+					"frame": {
+						"x": 1658,
+						"y": 36,
+						"w": 13,
+						"h": 15
+					}
+				},
+				{
+					"filename": "Jellyfish Sprite Sheet-9.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 10,
+						"w": 12,
+						"h": 14
+					},
+					"frame": {
+						"x": 1673,
+						"y": 37,
+						"w": 12,
+						"h": 14
+					}
+				},
+				{
+					"filename": "Jellyfish Sprite Sheet-6.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 10,
+						"w": 11,
+						"h": 17
+					},
+					"frame": {
+						"x": 1687,
+						"y": 37,
+						"w": 11,
+						"h": 17
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:bbb0b94067fb97361bc64575e577697e:d562556bfecce2e0f49a75a424527c71:8fc4d3ec51ba7bc700054b5f64cf62b1$"
+	}
+}

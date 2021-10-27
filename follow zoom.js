@@ -1,11 +1,21 @@
 "use strict";
 
 var crosshair = ["crosshair-shotgun", "crosshair-pistol", "crosshair-machinegun"]
+
 var keyA;
 var keyS;
 var keyD;
 var keyW;
 var keyQ;
+
+//enemies
+var brainMole 
+var intellectDevourer
+var jellyfish 
+var leshyLeaf 
+var rcCar 
+var shardsoul
+var twig 
 
 class Example extends Phaser.Scene
 { 
@@ -16,22 +26,31 @@ class Example extends Phaser.Scene
 
     preload () 
     {
+        // load the images
         this.load.image('map', 'assets/maps/earthbound-scarab.png');
         this.load.image('crosshair-shotgun', 'assets/sprites/crosshairs/Shotgun.png');
         this.load.image('crosshair-machinegun', 'assets/sprites/crosshairs/MachineGun.png');
         this.load.image('crosshair-pistol', 'assets/sprites/crosshairs/Pistol.png');
+        this.load.atlas('bulletsAtlas','assets/sprites/bullet/explosion.png','assets/sprites/bullet/explosion.json');
+        this.load.atlas('monstersAtlas','assets/sprites/monster/monsters.png','assets/sprites/monster/monsters.json');
+
+        // create the animations
+        this.anims.create({
+            key: 'sS-Walk',
+            repeat: -1,
+            frames: this.anims.generateFrameNames('monstersAtlas', {
+              prefix: '',
+              end: 6,
+              zeroPad: 4
+            })
+          });
+          console.log(this.anims.list);
 
     }
 
     create () 
     {
-        // set bounds of the camera to equal the size of the map.
-        this.cameras.main.setBounds(0, 0, 1024, 2048);
-        
-        // adds the map. Use setOrigin(0) to ensure that the map looks well.
-        this.add.image(0, 0, 'map').setOrigin(0).setScrollFactor(1);
-    
-        // add the cursor keys to the document.
+        // add the keyboard keys we will be using.
         this.cursors = this.input.keyboard.createCursorKeys();
 
         keyA = this.input.keyboard.addKey(Phaser.Input.Keyboard.KeyCodes.A);
@@ -39,7 +58,22 @@ class Example extends Phaser.Scene
         keyD = this.input.keyboard.addKey(Phaser.Input.Keyboard.KeyCodes.D);
         keyW = this.input.keyboard.addKey(Phaser.Input.Keyboard.KeyCodes.W);
         keyQ = this.input.keyboard.addKey(Phaser.Input.Keyboard.KeyCodes.Q);
+        
+        // set bounds of the camera to equal the size of the map.
+        this.cameras.main.setBounds(0, 0, 1024, 2048);
+        
+        // adds the map. Use setOrigin(0) to ensure that the map looks well.
+        this.add.image(0, 0, 'map').setOrigin(0).setScrollFactor(1);
     
+        // add the monsters
+        brainMole = this.add.sprite(100, 400, 'monstersAtlas', 'Brain Mole Monarch Sprite Sheet-0.png');
+        intellectDevourer = this.add.sprite(100, 600, 'monstersAtlas', 'Intellect Devourer Sprites-0.png');
+        jellyfish = this.add.sprite(100, 700, 'monstersAtlas', 'Jellyfish Sprite Sheet-0.png');
+        leshyLeaf = this.add.sprite(100, 800,'monstersAtlas','Leshy Leaf Sprite Sheet-0.png');
+        rcCar = this.add.sprite(100,900,'monstersAtlas','RC Car Sprite Sheet-0.png');
+        shardsoul = this.add.sprite(100,1000,'monstersAtlas','Shardsoul Slayer Sprite Sheet-4.png');
+        twig = this.add.sprite(100,1100,'monstersAtlas','Twig Blight Sprite Sheet-0.png');
+
         // add the crosshair.
         this.crosshair = this.physics.add.image(400.5, 301.3, crosshair[1]);
         this.crosshair.scale=0.25;
